@@ -5,6 +5,9 @@ Target audience: Sales managers
 
 For sales managers with many stores and products, making good decisions is important for making money and keeping stock levels right. Our sales dashboard helps managers make decisions by giving them a clear overview of sales data. Managers can use the dashboard to see what's selling well in different stores, different products, and over time. The user-friendly interface makes it easy for managers to filter and compare data. This helps them identify top-performing stores and products, seasonal trends, and shifts in consumer preferences. This tool helps sales managers adjust strategies, align inventory with demand, and set concrete targets for their teams. This leads to better sales performance and resource allocation.
 
+## Video Walkthrough
+https://drive.google.com/file/d/1qSzzgMNv1Duz_NhrXW6neONMEwJYcjID/view?usp=sharing
+
 ## Installation Instructions
 
 Since I don't have a paid subscription to Tableau, I'm unable to download the dashboard file and upload it to a GitHub repository for local use or replicated purposes. However, I have uploaded the dashboard to Tableau Public, which is free and allows anyone with the link to view and interact with the dashboard online.
